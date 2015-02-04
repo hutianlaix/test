@@ -6,7 +6,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	puts("1");
+	puts("11111111111");
 	return 0;
 }
 
